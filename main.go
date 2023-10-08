@@ -13,7 +13,7 @@ import (
 	"strings"
 )
 
-var userName = "qing-tian-5"
+var userName = "18300875296"
 
 func main() {
 	easy, medium, hard := getQuestionProgressInfo()
