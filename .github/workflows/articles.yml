@@ -9,6 +9,7 @@ on:
   push:
     branches:
       - main
+      - output
 
 # 作业, see: https://docs.github.com/zh/actions/using-jobs/using-jobs-in-a-workflow
 jobs:
