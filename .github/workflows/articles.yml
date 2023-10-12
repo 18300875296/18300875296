@@ -8,7 +8,9 @@ on:
     - cron: '30 22 * * *'
   push:
     branches:
-      - main # 这里根据你的主分支是master还是main决定
+      - master
+      - feature/zhihu
+      - feature/segmentfault
 
 # 作业, see: https://docs.github.com/zh/actions/using-jobs/using-jobs-in-a-workflow
 jobs:
@@ -33,4 +35,3 @@ jobs:
         with:
           default_author: github_actions
           message: juejin-posts
-
