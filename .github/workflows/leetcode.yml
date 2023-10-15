@@ -14,17 +14,17 @@ on:
 # 作业, see: https://docs.github.com/zh/actions/using-jobs/using-jobs-in-a-workflow
 jobs:
 
-  juejin-posts:
+  leetCode:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Append Juejin Posts List 📚
-        uses: baozouai/multi-platform-posts-action@main
+      - name: Append LeetCode List 📚
+        uses: 18300875296/LeetCode_Action@main
         with:
-          user_id: '814098809098478' # 上面拿到不同平台的id后，填入这里
-          platform: juejin # 这里填写不同的平台，有juejin, zhihu, segmentfault
+          user_id: '18300875296' # 上面拿到不同平台的id后，填入这里
+          platform: 'LeetCode' # 这里填写不同的平台，有juejin, zhihu, segmentfault
 
       - run: |
           git pull
@@ -32,4 +32,4 @@ jobs:
         uses: EndBug/add-and-commit@v9
         with:
           default_author: github_actions
-          message: juejin-posts
+          message: LeetCode List
