@@ -20,9 +20,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         
-      - name: Install Dependencies
-        run: npm install  # You might need yarn install if you use yarn
-
       - name: Append LeetCode List 📚
         uses: 18300875296/LeetCode_Action@main
         with:
