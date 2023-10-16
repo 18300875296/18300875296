@@ -21,7 +21,7 @@ jobs:
         uses: actions/checkout@v3
         
       - name: Append LeetCode List 📚
-        uses: 18300875296/LeetCode_Action@v1
+        uses: 18300875296/LeetCode_Action@main
         with:
           user_id: '18300875296' # 上面拿到不同平台的id后，填入这里
           displayType: 'SolvedProblem' # 
