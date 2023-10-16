@@ -12,15 +12,6 @@ jobs:
   leetCode:
     runs-on: ubuntu-latest
     steps:
-      - name: Show current directory
-        run: |
-          ls -al
-
-      - name: Clear cache
-        run: |
-          git clean -ffdx
-          rm -rf $GITHUB_WORKSPACE
-
       - name: Checkout
         uses: actions/checkout@v3
 
