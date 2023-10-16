@@ -14,8 +14,9 @@ jobs:
     steps:
       - name: Clear cache
         run: |
+          cd $GITHUB_WORKSPACE
           git clean -ffdx
-          rm -rf ${{ runner.workspace }}
+          rm -rf $GITHUB_WORKSPACE
 
       - name: Checkout
         uses: actions/checkout@v3
