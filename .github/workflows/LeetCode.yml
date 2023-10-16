@@ -12,9 +12,13 @@ jobs:
   leetCode:
     runs-on: ubuntu-latest
     steps:
+      - name: Show current directory
+        run: |
+          ls -al
+          
       - name: Clear cache
         run: |
-          cd $GITHUB_WORKSPACE
+          cd $GITHUB_WORKSPACE || exit 1
           git clean -ffdx
           rm -rf $GITHUB_WORKSPACE
 
