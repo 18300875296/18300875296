@@ -13,7 +13,7 @@
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[6天前 👍：24  ⭐：28]
+<li align='left'>[7天前 👍：24  ⭐：29]
       <a href="https://juejin.cn/post/7288513881734791222" target="_blank">浏览器跨页面通信方案</a>
       </li>
 </ul>
