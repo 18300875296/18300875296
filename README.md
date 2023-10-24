@@ -13,10 +13,10 @@
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[15小时前 👍：1  ⭐：0]
+<li align='left'>[1天前 👍：1  ⭐：1]
       <a href="https://juejin.cn/post/7292966352867393599" target="_blank">理解JavaScript中的深浅拷贝</a>
       </li>
-<li align='left'>[12天前 👍：26  ⭐：33]
+<li align='left'>[13天前 👍：26  ⭐：33]
       <a href="https://juejin.cn/post/7288513881734791222" target="_blank">浏览器跨页面通信方案</a>
       </li>
 </ul>
