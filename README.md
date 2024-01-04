@@ -41,7 +41,7 @@
     <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">1个月前</th>
   </tr>, <tr style="border: 1px solid #ddd;padding: 8px;text-align: left;">
     <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">187重复的DNA序列</th>
-    <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">1个月前</th>
+    <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">2个月前</th>
   </tr>, <tr style="border: 1px solid #ddd;padding: 8px;text-align: left;">
     <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">208实现 Trie (前缀树)</th>
     <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">2个月前</th>
