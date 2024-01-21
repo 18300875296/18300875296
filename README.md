@@ -13,7 +13,7 @@
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[2个月前 👍：2  ⭐：3]
+<li align='left'>[3个月前 👍：2  ⭐：3]
       <a href="https://juejin.cn/post/7292966352867393599" target="_blank">理解JavaScript中的深浅拷贝</a>
       </li>
 <li align='left'>[3个月前 👍：32  ⭐：48]
