@@ -31,6 +31,12 @@
       <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">最近提交时间</th>
     </tr>
      <tr style="border: 1px solid #ddd;padding: 8px;text-align: left;">
+    <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">27移除元素</th>
+    <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">12小时前</th>
+  </tr>, <tr style="border: 1px solid #ddd;padding: 8px;text-align: left;">
+    <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">704二分查找</th>
+    <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">13小时前</th>
+  </tr>, <tr style="border: 1px solid #ddd;padding: 8px;text-align: left;">
     <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">2789合并后数组中的最大元素</th>
     <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">1个月前</th>
   </tr>, <tr style="border: 1px solid #ddd;padding: 8px;text-align: left;">
@@ -50,7 +56,7 @@
     <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">1个月前</th>
   </tr>, <tr style="border: 1px solid #ddd;padding: 8px;text-align: left;">
     <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">2609最长平衡子字符串</th>
-    <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">5个月前</th>
+    <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">6个月前</th>
   </tr>, <tr style="border: 1px solid #ddd;padding: 8px;text-align: left;">
     <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">2586统计范围内的元音字符串数</th>
     <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">6个月前</th>
@@ -68,12 +74,6 @@
     <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">6个月前</th>
   </tr>, <tr style="border: 1px solid #ddd;padding: 8px;text-align: left;">
     <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">2103环和杆</th>
-    <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">6个月前</th>
-  </tr>, <tr style="border: 1px solid #ddd;padding: 8px;text-align: left;">
-    <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">784字母大小写全排列</th>
-    <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">6个月前</th>
-  </tr>, <tr style="border: 1px solid #ddd;padding: 8px;text-align: left;">
-    <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">131分割回文串</th>
     <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">6个月前</th>
   </tr>
     </table><!-- leetCode end -->
