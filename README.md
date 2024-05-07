@@ -32,10 +32,10 @@
     </tr>
      <tr style="border: 1px solid #ddd;padding: 8px;text-align: left;">
     <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">27移除元素</th>
-    <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">12小时前</th>
+    <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">1天前</th>
   </tr>, <tr style="border: 1px solid #ddd;padding: 8px;text-align: left;">
     <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">704二分查找</th>
-    <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">13小时前</th>
+    <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">1天前</th>
   </tr>, <tr style="border: 1px solid #ddd;padding: 8px;text-align: left;">
     <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">2789合并后数组中的最大元素</th>
     <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">1个月前</th>
