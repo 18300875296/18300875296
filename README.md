@@ -74,7 +74,7 @@
     <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">11个月前</th>
   </tr>, <tr style="border: 1px solid #ddd;padding: 8px;text-align: left;">
     <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">169多数元素</th>
-    <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">11个月前</th>
+    <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">12个月前</th>
   </tr>
     </table><!-- leetCode end -->
 
