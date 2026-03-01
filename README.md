@@ -32,7 +32,7 @@
     </tr>
      <tr style="border: 1px solid #ddd;padding: 8px;text-align: left;">
     <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">21合并两个有序链表</th>
-    <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">12小时前</th>
+    <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">1天前</th>
   </tr>, <tr style="border: 1px solid #ddd;padding: 8px;text-align: left;">
     <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">164最大间距</th>
     <th style="border: 1px solid #ddd;padding: 8px;text-align: left;background-color: #f2f2f2;">4个月前</th>
